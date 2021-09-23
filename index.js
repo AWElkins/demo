@@ -1,3 +1,7 @@
+function test() {
+  console.log("Test");
+}
+
 function swapCase(str) {
   var result = "";
 
